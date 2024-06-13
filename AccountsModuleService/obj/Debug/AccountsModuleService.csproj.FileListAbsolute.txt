@@ -1,0 +1,12 @@
+D:\EETAccountsModuleService-main\AccountsModuleService\bin\Release\AccountsModuleService.exe.config
+D:\EETAccountsModuleService-main\AccountsModuleService\bin\Release\AccountsModuleService.exe
+D:\EETAccountsModuleService-main\AccountsModuleService\bin\Release\AccountsModuleService.pdb
+D:\EETAccountsModuleService-main\AccountsModuleService\obj\Debug\AccountsModuleService.csproj.AssemblyReference.cache
+D:\EETAccountsModuleService-main\AccountsModuleService\obj\Debug\AccountsModuleService.ConnecToBookingAPI.resources
+D:\EETAccountsModuleService-main\AccountsModuleService\obj\Debug\AccountsModuleService.MoveXMLToBooking.resources
+D:\EETAccountsModuleService-main\AccountsModuleService\obj\Debug\AccountsModuleService.ProjectInstaller.resources
+D:\EETAccountsModuleService-main\AccountsModuleService\obj\Debug\AccountsModuleService.XMLFileReader.resources
+D:\EETAccountsModuleService-main\AccountsModuleService\obj\Debug\AccountsModuleService.csproj.GenerateResource.cache
+D:\EETAccountsModuleService-main\AccountsModuleService\obj\Debug\AccountsModuleService.csproj.CoreCompileInputs.cache
+D:\EETAccountsModuleService-main\AccountsModuleService\obj\Debug\AccountsModuleService.exe
+D:\EETAccountsModuleService-main\AccountsModuleService\obj\Debug\AccountsModuleService.pdb
